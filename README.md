@@ -57,8 +57,7 @@ This repository contains supporting files and code associated with the submitted
     - Apiary_ID : identification code for the apiary at which the sample was collected
     - Julian_Day : the 2020 Julian day for the date the sample was collected
     - DWV_Cq : the Cq value from qPCR screening for the DWV target in the sample (average value from 3 technical replicates for syrphid flies and wild bees, single value for bumble bees; NA denotes non-detections)
-    - Reference_Cq : the Cq value from qPCR screening for the reference target in the sample (average value from 3 technical replicates for syrphid flies and wild bees; bumble bees and two Xylocopa virginica
- were not screened for a reference gene and this is denoted "none")
+    - Reference_Cq : the Cq value from qPCR screening for the reference target in the sample (average value from 3 technical replicates for syrphid flies and wild bees; bumble bees and two Xylocopa virginica were not screened for a reference gene and this is denoted "none")
     - DWV_presence : the presence or absence of DWV in each sample (0 = absent, 1 = present; Cq values above 35 were treated as non-detections and coded as "0")
 
 ## Code/Software
