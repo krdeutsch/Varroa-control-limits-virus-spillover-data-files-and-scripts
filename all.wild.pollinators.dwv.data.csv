@@ -1,0 +1,837 @@
+Sample_ID,DWV_Cq,Reference_Cq,DWV_presence,Taxa,Family,Subfamily,Genus,Species,Sex,Apiary_ID,Julian_Day
+Apiary_13_092320_P6,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,F,Apiary_13,267
+Apiary_6_091020_P6,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_6,254
+Apiary_21_092020_P9,NA,22.31666667,0,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis dimidiata,F,Apiary_21,264
+Apiary_25_092120_P1,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_25,265
+Apiary_25_091120_P6,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_25,255
+Apiary_17_092220_P9,35.01,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_17,266
+Apiary_20_091820_P11,35.03,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_20,262
+Apiary_8_100220_P1,35.04,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_8,276
+Apiary_12_091620_P5,35.04,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_12,260
+Apiary_18_090820_P5,35.08,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_18,252
+Apiary_19_092720_P12,35.1,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_19,271
+Apiary_14_092320_P10,35.1,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_14,267
+Apiary_2_091920_P8,35.1,none,0,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_2,263
+Apiary_17_092220_P3,35.11,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_17,266
+Apiary_6_092020_P1,35.12,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_6,264
+Apiary_18_092220_P4,35.12,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_18,266
+Apiary_17_090820_P11,35.14,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_17,252
+Apiary_27_090720_P11,35.14,none,0,wild bee,Apidae,NA,Xylocopa,Xylocopa virginica,F,Apiary_27,251
+Apiary_5_091420_P2,35.16,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_5,258
+Apiary_8_091320_P9,35.17,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_8,257
+Apiary_18_092220_P5,35.18,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_18,266
+Apiary_13_092320_P5,35.21,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_13,267
+Apiary_18_090820_P4,35.21,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_18,252
+Apiary_20_092720_P7,35.24,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_20,271
+Apiary_11_091120_P12,35.27,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,255
+Apiary_1_091520_P3,35.28,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_1,259
+Apiary_14_092320_P6,35.29,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_14,267
+Apiary_13_092320_P3,35.305,25.16333333,0,syrphid,Syrphidae,Eristalinae,Rhingia,Rhingia nasica,M,Apiary_13,267
+Apiary_6_091020_P7,35.32,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_6,254
+Apiary_26_090720_P4,35.335,4.166666667,0,wild bee,Apidae,NA,Ceratina,Ceratina sp.,F,Apiary_26,251
+Apiary_24_092320_P16,35.34,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_24,267
+Apiary_8_100220_P20,35.345,24.78333333,0,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis sp.,F,Apiary_8,276
+Apiary_27_092820_P4,35.38,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_18_092220_P12,35.41,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_18,266
+Apiary_8_092520_P2,35.42,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_8,269
+Apiary_3_091520_P15,35.48,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_3,259
+Apiary_12_091620_P3,35.54,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_12,260
+Apiary_25_091120_P8,35.54,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_25,255
+Apiary_12_091620_P10,35.68,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_12,260
+Apiary_19_092720_P3,35.7,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_19,271
+Apiary_12_092620_P1,35.76,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_12,270
+Apiary_14_090920_P18,35.77,2.663333333,0,wild bee,Apidae,NA,Ceratina,Ceratina sp.,F,Apiary_14,253
+Apiary_19_091820_P7,35.87,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_19,262
+Apiary_25_092120_P2,35.92,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_25,265
+Apiary_17_092220_P11,35.93,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_17,266
+Apiary_27_092820_P10,35.95,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_22_091420_P8,35.96,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_22,258
+Apiary_3_092420_P2,36.02,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_3,268
+Apiary_20_091820_P19,36.03,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_20,262
+Apiary_16_092020_P9,36.06,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_16,264
+Apiary_27_092820_P8,36.09,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_21_091020_P12,36.19,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_21,254
+Apiary_2_091920_P5,36.19,none,0,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_2,263
+Apiary_16_091020_P6,36.21,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_16,254
+Apiary_7_091720_P6,36.26,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,261
+Apiary_17_092220_P14,36.32,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_17,266
+Apiary_25_091120_P11,36.36,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_25,255
+Apiary_2_091920_P13,36.5,none,0,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_2,263
+Apiary_5_091420_P3,36.55,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_5,258
+Apiary_1_091520_P9,36.56,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_1,259
+Apiary_12_092620_P2,36.6,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_12,270
+Apiary_25_092120_P14,36.67,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_25,265
+Apiary_16_091020_P4,36.78,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_16,254
+Apiary_20_092720_P3,36.8,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_20,271
+Apiary_18_092220_P17,36.82,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_18,266
+Apiary_27_092820_P5,36.99,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_15_091620_P6,37.07,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,260
+Apiary_20_091820_P13,37.09,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_20,262
+Apiary_25_092120_P13,37.1,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_25,265
+Apiary_7_091720_P17,37.11,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,261
+Apiary_24_092320_P13,37.16,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_24,267
+Apiary_14_092320_P7,37.17,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_14,267
+Apiary_16_092020_P13,37.18,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_16,264
+Apiary_24_092320_P7,37.18,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_24,267
+Apiary_8_091320_P12,37.27,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_8,257
+Apiary_1_091520_P4,37.28,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_1,259
+Apiary_14_092320_P8,37.29,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_14,267
+Apiary_22_091420_P5,37.35,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_22,258
+Apiary_24_092320_P4,37.38,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_24,267
+Apiary_2_091920_P17,37.51,none,0,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_2,263
+Apiary_22_091420_P2,37.52,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_22,258
+Apiary_14_092320_P9,37.55,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_14,267
+Apiary_27_090720_P13,37.61,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,251
+Apiary_27_100120_P3,37.61,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,275
+Apiary_23_091120_P22,37.64,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_23,255
+Apiary_21_092020_P10,37.65,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,F,Apiary_21,264
+Apiary_26_090720_P13,37.72,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_26,251
+Apiary_14_092320_P11,37.76,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_14,267
+Apiary_19_092720_P14,37.79,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_19,271
+Apiary_24_092320_P8,37.82,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_24,267
+Apiary_20_092720_P13,37.88,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_20,271
+Apiary_17_090820_P4,37.92,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_17,252
+Apiary_20_092720_P1,37.98,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_20,271
+Apiary_21_092020_P1,38.02,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_21,264
+Apiary_17_090820_P9,38.03,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_17,252
+Apiary_1_091520_P11,38.09,none,0,bumble,Apidae,NA,Bombus,Bombus bimaculatus,M,Apiary_1,259
+Apiary_10_091220_P3,38.1,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_10,256
+Apiary_19_091820_P19,38.13,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_19,262
+Apiary_27_092820_P1,38.15,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_7_091720_P3,38.16,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,261
+Apiary_19_092720_P2,38.17,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_19,271
+Apiary_24_091220_P10,38.22,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_24,256
+Apiary_6_091020_P8,38.25,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_6,254
+Apiary_14_092320_P17,38.27,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_14,267
+Apiary_10_091220_P10,38.31,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_10,256
+Apiary_9_091220_P3,38.37,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_9,256
+Apiary_21_092020_P16,38.38,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_21,264
+Apiary_3_092420_P1,38.39,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,Q,Apiary_3,268
+Apiary_17_090820_P3,38.4,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_17,252
+Apiary_8_092520_P1,38.46,none,0,bumble,Apidae,NA,Bombus,Bombus griseocollis,U,Apiary_8,269
+Apiary_27_092820_P3,38.48,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_6_091020_P2,38.63,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,U,Apiary_6,254
+Apiary_17_092220_P2,38.66,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_17,266
+Apiary_10_091220_P9,38.76,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,Q,Apiary_10,256
+Apiary_20_092720_P15,38.86,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_20,271
+Apiary_24_091220_P11,39.04,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_24,256
+Apiary_21_092020_P7,39.07,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_21,264
+Apiary_16_091020_P9,39.1,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_16,254
+Apiary_14_090920_P25,39.15,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,Q,Apiary_14,253
+Apiary_7_100520_P4,39.17,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,279
+Apiary_27_092820_P18,39.22,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_19_092720_P4,39.23,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_19,271
+Apiary_20_092720_P5,39.26,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_20,271
+Apiary_20_092720_P4,39.31,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_20,271
+Apiary_27_092820_P11,39.33,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_23_092120_P10,39.38,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_23,265
+Apiary_24_092320_P14,39.43,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_24,267
+Apiary_25_091120_P13,39.57,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_25,255
+Apiary_27_092820_P2,39.57,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_23_092120_P18,39.59,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_23,265
+Apiary_17_092220_P4,39.65,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_17,266
+Apiary_12_092620_P4,39.71,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_12,270
+Apiary_7_100520_P7,39.78,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,279
+Apiary_27_092820_P6,39.91,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_3_091520_P4,39.92,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_3,259
+Apiary_13_092320_P18,35.20333333333333,22.08,0,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis tenax,M,Apiary_13,267
+Apiary_11_091120_P19,35.483333333333334,4.255,0,wild bee,Apidae,NA,Ceratina,Ceratina sp.,U,Apiary_11,255
+Apiary_11_091120_P15,35.605000000000004,14.2,0,wild bee,Unknown,NA,unknown,unknown,F,Apiary_11,255
+Apiary_1_091520_P2,NA,16.68,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,U,Apiary_1,259
+Apiary_1_091520_P5,NA,16.38,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,U,Apiary_1,259
+Apiary_6_091020_P16,NA,16.83666667,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,U,Apiary_6,254
+Apiary_6_091020_P18,NA,30.69,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,U,Apiary_6,254
+Apiary_12_092620_P15,NA,16.06,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,U,Apiary_12,270
+Apiary_6_092020_P15,NA,17.31666667,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,F,Apiary_6,264
+Apiary_6_092020_P2,NA,18.47,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,F,Apiary_6,264
+Apiary_21_092020_P15,NA,17.52666667,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,F,Apiary_21,264
+Apiary_6_092020_P12,NA,17.13,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,M,Apiary_6,264
+Apiary_6_092020_P9,NA,17.53,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,M,Apiary_6,264
+Apiary_21_092020_P14,NA,16.46,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,M,Apiary_21,264
+Apiary_2_091920_P2,NA,17.88,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,U,Apiary_2,263
+Apiary_2_091920_P23,NA,17.46666667,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,U,Apiary_2,263
+Apiary_2_091920_P3,NA,17.18666667,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,U,Apiary_2,263
+Apiary_1_100120_P3,NA,16.74666667,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,U,Apiary_1,275
+Apiary_6_091020_P3,NA,17.26333333,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,U,Apiary_6,254
+Apiary_24_092320_P2,NA,17.22,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,U,Apiary_24,267
+Apiary_16_092020_P16,NA,17.35,0,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,M,Apiary_16,264
+Apiary_12_091620_P8,NA,23.69,0,syrphid,Syrphidae,Syrphinae,Allograpta,Allograpta obliqua,F,Apiary_12,260
+Apiary_10_091220_P2,NA,15.05,0,wild bee,Andrenidae,NA,Andrena,Andrena sp.,F,Apiary_10,256
+Apiary_9_091220_P20,NA,15.01333333,0,wild bee,Andrenidae,NA,Andrena,Andrena sp.,F,Apiary_9,256
+Apiary_13_090920_P2,NA,16.07333333,0,wild bee,Andrenidae,NA,Andrena,Andrena sp.,M,Apiary_13,253
+Apiary_15_091620_PS1,NA,14.82666667,0,wild bee,Andrenidae,NA,Andrena,Andrena sp.,U,Apiary_15,260
+Apiary_20_091820_P8,NA,16.37666667,0,wild bee,Megachilidae,NA,Anthidium,Anthidium sp.,F,Apiary_20,262
+Apiary_16_091020_P17,NA,14.88666667,0,wild bee,Halictidae,NA,Augochorella,Augochorella sp.,U,Apiary_16,254
+Apiary_17_092220_P17,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,F,Apiary_17,266
+Apiary_20_092720_P12,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,F,Apiary_20,271
+Apiary_6_092020_P8,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,F,Apiary_6,264
+Apiary_11_091120_P3,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,F,Apiary_11,255
+Apiary_17_090820_P14,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,F,Apiary_17,252
+Apiary_1_100120_P8,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_1,275
+Apiary_2_091920_P25,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_2,263
+Apiary_14_092320_P4,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_14,267
+Apiary_16_091020_P10,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_16,254
+Apiary_26_091920_P23,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_26,263
+Apiary_8_091320_P1,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,Q,Apiary_8,257
+Apiary_9_091220_P13,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,Q,Apiary_9,256
+Apiary_2_090420_P7,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_2,248
+Apiary_6_092020_P10,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_6,264
+Apiary_8_092520_P11,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_8,269
+Apiary_10_091220_P11,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_10,256
+Apiary_10_091220_P5,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_10,256
+Apiary_13_092320_P4,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_13,267
+Apiary_14_092320_P14,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_14,267
+Apiary_17_092220_P1,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_17,266
+Apiary_22_091420_P13,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_22,258
+Apiary_22_091420_P14,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_22,258
+Apiary_22_091420_P9,NA,none,0,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_22,258
+Apiary_3_091520_P5,NA,none,0,bumble,Apidae,NA,Bombus,Bombus griseocollis,F,Apiary_3,259
+Apiary_20_091820_P17,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,F,Apiary_20,262
+Apiary_1_091520_P10,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_1,259
+Apiary_1_091520_P15,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_1,259
+Apiary_1_091520_P16,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_1,259
+Apiary_1_091520_P19,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_1,259
+Apiary_1_100120_P2,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_1,275
+Apiary_1_100120_P7,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_1,275
+Apiary_3_091520_P12,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_3,259
+Apiary_7_091720_P1,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,261
+Apiary_8_092520_P9,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_8,269
+Apiary_12_092620_P10,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_12,270
+Apiary_12_092620_P11,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_12,270
+Apiary_14_092320_P12,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_14,267
+Apiary_14_092320_P16,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_14,267
+Apiary_16_091020_P11,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_16,254
+Apiary_16_091020_P12,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_16,254
+Apiary_16_092020_P2,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_16,264
+Apiary_16_092020_P5,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_16,264
+Apiary_18_092220_P3,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_18,266
+Apiary_19_091820_P16,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_19,262
+Apiary_19_091820_P20,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_19,262
+Apiary_19_091820_P8,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_19,262
+Apiary_19_092720_P13,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_19,271
+Apiary_19_092720_P7,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_19,271
+Apiary_20_092720_P6,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_20,271
+Apiary_21_091020_P14,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_21,254
+Apiary_21_092020_P12,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_21,264
+Apiary_22_091420_P11,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_22,258
+Apiary_22_091420_P12,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_22,258
+Apiary_22_091420_P15,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_22,258
+Apiary_22_091420_P3,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_22,258
+Apiary_22_091420_P4,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_22,258
+Apiary_22_091420_P7,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_22,258
+Apiary_24_092320_P12,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_24,267
+Apiary_24_092320_P3,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_24,267
+Apiary_25_092120_P11,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_25,265
+Apiary_25_092120_P12,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_25,265
+Apiary_25_092120_P5,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_25,265
+Apiary_27_092820_P13,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_27_092820_P14,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_27_092820_P16,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_27_092820_P9,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_27_100120_P2,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,275
+Apiary_27_100120_P5,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,275
+Apiary_17_090820_P5,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,Q,Apiary_17,252
+Apiary_20_092720_P16,NA,15.17,0,bumble,Apidae,NA,Bombus,Bombus impatiens,U,Apiary_20,271
+Apiary_6_091020_P5,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_6,254
+Apiary_8_091320_P15,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_8,257
+Apiary_11_092120_P4,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,265
+Apiary_16_091020_P3,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_16,254
+Apiary_17_092220_P10,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_17,266
+Apiary_18_092220_P15,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_18,266
+Apiary_20_091820_P16,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_20,262
+Apiary_20_091820_P22,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_20,262
+Apiary_20_092720_P2,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_20,271
+Apiary_21_091020_P1,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_21,254
+Apiary_25_091120_P18,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_25,255
+Apiary_25_092120_P10,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_25,265
+Apiary_25_092120_P15,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_25,265
+Apiary_2_091920_P10,NA,none,0,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_2,263
+Apiary_2_091920_P19,NA,none,0,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_2,263
+Apiary_11_092120_P7,NA,none,0,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_11,265
+Apiary_16_092020_P6,NA,14.72666667,0,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_16,264
+Apiary_23_091120_P16,NA,30.13666667,0,wild bee,Andrenidae,NA,Calliopsis,Calliopsis sp.,M,Apiary_23,255
+Apiary_2_090420_P12-2,NA,3.7,0,wild bee,Apidae,NA,Ceratina,Ceratina sp.,F,Apiary_2,248
+Apiary_2_090420_P15,NA,5.025,0,wild bee,Apidae,NA,Ceratina,Ceratina sp.,F,Apiary_2,248
+Apiary_2_090420_P9,NA,3.95,0,wild bee,Apidae,NA,Ceratina,Ceratina sp.,F,Apiary_2,248
+Apiary_2_091920_P18,NA,5.16,0,wild bee,Apidae,NA,Ceratina,Ceratina sp.,F,Apiary_2,263
+Apiary_11_092120_P13,NA,28.378,0,wild bee,Apidae,NA,Ceratina,Ceratina sp.,F,Apiary_11,265
+Apiary_23_091120_P6,NA,21.67,0,syrphid,Syrphidae,Syrphinae,Chrysotoxum,Chrysotoxum sp.,F,Apiary_23,255
+Apiary_26_090720_P24,NA,19.68333333,0,wild bee,Colletidae,NA,Colletes,Colletes sp.,U,Apiary_26,251
+Apiary_25_092120_P9,NA,24.36666667,0,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis anthophorina,F,Apiary_25,265
+Apiary_23_091120_P13,NA,21.67333333,0,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis arbustorum,F,Apiary_23,255
+Apiary_8_092520_P7,NA,21.66666667,0,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis arbustorum,M,Apiary_8,269
+Apiary_19_091820_P11,NA,18.58,0,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis sp.,M,Apiary_19,262
+Apiary_20_091820_P21,NA,21.04,0,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis sp.,M,Apiary_20,262
+Apiary_25_092120_P4,NA,24.97333333,0,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis flavipes,F,Apiary_25,265
+Apiary_25_091120_P7,NA,19.175,0,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis flavipes,M,Apiary_25,255
+Apiary_2_091920_P9,NA,22.02,0,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis sp.,M,Apiary_2,263
+Apiary_20_091820_P4,NA,22.93,0,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis sp.,F,Apiary_20,262
+Apiary_20_091820_P6,NA,21.93333333,0,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis sp.,F,Apiary_20,262
+Apiary_20_091820_P1,NA,20.26,0,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis tenax,F,Apiary_20,262
+Apiary_27_090720_P5,NA,15.38666667,0,wild bee,Halictidae,NA,unknown,unknown,U,Apiary_27,251
+Apiary_26_091920_P7,NA,22.65333333,0,syrphid,Syrphidae,Eristalinae,Helophilus,Helophilus fasciatus,M,Apiary_26,263
+Apiary_15_091620_P17,NA,21.01666667,0,syrphid,Syrphidae,Eristalinae,Helophilus,Helophilus fasciatus,U,Apiary_15,260
+Apiary_26_090720_P21,NA,15.72,0,wild bee,Colletidae,NA,Hylaeus,Hylaeus sp.,F,Apiary_26,251
+Apiary_2_090420_P5,NA,15.04333333,0,wild bee,Colletidae,NA,Hylaeus,Hylaeus sp.,F,Apiary_2,248
+Apiary_14_090920_P21,NA,30.31333333,0,wild bee,Halictidae,NA,Lasioglossum,Lasioglossum sp.,U,Apiary_14,253
+Apiary_27_090720_P3,NA,20.35,0,wild bee,Halictidae,NA,Lasioglossum,Lasioglossum sp.,F,Apiary_27,251
+Apiary_14_090920_P10,NA,19.86,0,wild bee,Halictidae,NA,Lasioglossum,Lasioglossum sp.,F,Apiary_14,253
+Apiary_18_090820_P12,NA,18.93333333,0,wild bee,Halictidae,NA,Lasioglossum,Lasioglossum sp.,M,Apiary_18,252
+Apiary_12_091620_P9,NA,17.91,0,wild bee,Megachilidae,NA,Megachile,Megachile sp.,F,Apiary_12,260
+Apiary_20_091820_P2,NA,27.16,0,wild bee,Megachilidae,NA,Megachile,Megachile sp.,F,Apiary_20,262
+Apiary_12_091620_P6,NA,22.02,0,syrphid,Syrphidae,Syrphinae,Platycheirus,Platycheirus sp.,F,Apiary_12,260
+Apiary_24_091220_P8,NA,14.94333333,0,syrphid,Syrphidae,Syrphinae,Platycheirus/Melanostoma,unknown,F,Apiary_24,256
+Apiary_23_091120_P19,NA,27.625,0,wild bee,Andrenidae,NA,Pseudopanurgus,Pseudopanurgus sp.,F,Apiary_23,255
+Apiary_11_092120_P10,NA,26.08,0,syrphid,Syrphidae,Eristalinae,Rhingia,Rhingia nasica,F,Apiary_11,265
+Apiary_9_092220_P14,NA,24.86666667,0,syrphid,Syrphidae,Eristalinae,Rhingia,Rhingia nasica,M,Apiary_9,266
+Apiary_12_091620_P11,NA,22.46666667,0,syrphid,Syrphidae,Syrphinae,Sphaerophoria,Sphaerophoria sp.,F,Apiary_12,260
+Apiary_12_092620_P9,NA,24.68333333,0,syrphid,Syrphidae,Syrphinae,Sphaerophoria,Sphaerophoria sp.,F,Apiary_12,270
+Apiary_14_092320_P18,NA,26.02666667,0,syrphid,Syrphidae,Syrphinae,Sphaerophoria,Sphaerophoria sp.,F,Apiary_14,267
+Apiary_4_091420_P23,NA,23.23666667,0,syrphid,Syrphidae,Syrphinae,Sphaerophoria,Sphaerophoria sp.,M,Apiary_4,258
+Apiary_12_091620_P4,NA,20.43,0,syrphid,Syrphidae,Syrphinae,Sphaerophoria,Sphaerophoria sp.,M,Apiary_12,260
+Apiary_8_100220_P2,NA,24.71,0,syrphid,Syrphidae,Syrphinae,Sphaerophoria,Sphaerophoria sp.,F,Apiary_8,276
+Apiary_13_090920_P14,NA,21.42,0,syrphid,Syrphidae,Syrphinae,Sphaerophoria,Sphaerophoria sp.,M,Apiary_13,253
+Apiary_17_092220_P16,NA,21.18,0,syrphid,Syrphidae,Syrphinae,Sphaerophoria,Sphaerophoria sp.,M,Apiary_17,266
+Apiary_19_091820_P14,NA,21.14333333,0,syrphid,Syrphidae,Syrphinae,Sphaerophoria,Sphaerophoria sp.,M,Apiary_19,262
+Apiary_24_092320_P6,NA,15.74666667,0,syrphid,Syrphidae,Eristalinae,Spilomyia,Spilomyia fusca,F,Apiary_24,267
+Apiary_15_091620_P12,NA,14.26,0,syrphid,Syrphidae,Eristalinae,Spiloymia,Spiloymia longicornis,F,Apiary_15,260
+Apiary_9_091220_P17,NA,16.06666667,0,syrphid,Syrphidae,Eristalinae,Syritta,Syritta pipiens,F,Apiary_9,256
+Apiary_11_092120_P2,NA,15.35666667,0,syrphid,Syrphidae,Eristalinae,Syritta,Syritta pipiens,F,Apiary_11,265
+Apiary_20_091820_P20,NA,15.52666667,0,syrphid,Syrphidae,Eristalinae,Syritta,Syritta pipiens,F,Apiary_20,262
+Apiary_20_092720_P10,NA,16.21,0,syrphid,Syrphidae,Eristalinae,Syritta,Syritta pipiens,F,Apiary_20,271
+Apiary_20_092720_P9,NA,15.84333333,0,syrphid,Syrphidae,Eristalinae,Syritta,Syritta pipiens,F,Apiary_20,271
+Apiary_12_091620_P1,NA,15.16,0,syrphid,Syrphidae,Eristalinae,Syritta,Syritta pipiens,M,Apiary_12,260
+Apiary_14_090920_P20,NA,14.56,0,syrphid,Syrphidae,Eristalinae,Syritta,Syritta pipiens,M,Apiary_14,253
+Apiary_20_091820_P10,NA,15.47,0,syrphid,Syrphidae,Eristalinae,Syritta,Syritta pipiens,M,Apiary_20,262
+Apiary_20_091820_P15,NA,15.36666667,0,syrphid,Syrphidae,Eristalinae,Syritta,Syritta pipiens,M,Apiary_20,262
+Apiary_20_091820_P24,NA,15.45666667,0,syrphid,Syrphidae,Eristalinae,Syritta,Syritta pipiens,M,Apiary_20,262
+Apiary_20_091820_P5,NA,15.55,0,syrphid,Syrphidae,Eristalinae,Syritta,Syritta pipiens,M,Apiary_20,262
+Apiary_20_091820_P9,NA,15.33666667,0,syrphid,Syrphidae,Eristalinae,Syritta,Syritta pipiens,M,Apiary_20,262
+Apiary_20_092720_P8,NA,15.74,0,syrphid,Syrphidae,Eristalinae,Syritta,Syritta pipiens,M,Apiary_20,271
+Apiary_8_100220_P5,NA,15.90333333,0,syrphid,Syrphidae,Eristalinae,Syritta,Syritta pipiens,U,Apiary_8,276
+Apiary_6_091020_P19,NA,22.4,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus geminatus,F,Apiary_6,254
+Apiary_2_090420_P11,NA,21.20333333,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus geminatus,M,Apiary_2,248
+Apiary_6_091020_P17,NA,21.38666667,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus geminatus,M,Apiary_6,254
+Apiary_8_091320_P5,NA,21.9,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus geminatus,M,Apiary_8,257
+Apiary_9_091220_P15,NA,21.32,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus geminatus,M,Apiary_9,256
+Apiary_13_090920_P16,NA,20.91666667,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus geminatus,M,Apiary_13,253
+Apiary_21_090520_P1,NA,21.95,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus geminatus,M,Apiary_21,249
+Apiary_21_090520_P10,NA,20.47333333,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus geminatus,M,Apiary_21,249
+Apiary_21_092020_P3,NA,22.06333333,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus geminatus,M,Apiary_21,264
+Apiary_14_090920_P7,NA,30.65,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus germinatus,F,Apiary_14,253
+Apiary_8_092520_P10,NA,32.15,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus marginatus,F,Apiary_8,269
+Apiary_23_091120_P9,NA,32.11,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus marginatus,F,Apiary_23,255
+Apiary_8_091320_P14,NA,30.43,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus marginatus,M,Apiary_8,257
+Apiary_8_091320_P4,NA,30.26333333,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus marginatus,M,Apiary_8,257
+Apiary_8_092520_P3,NA,32.025,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus marginatus,M,Apiary_8,269
+Apiary_18_090820_P1,NA,31.89333333,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus marginatus,M,Apiary_18,252
+Apiary_19_091820_P12,NA,29.78333333,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus marginatus,M,Apiary_19,262
+Apiary_19_091820_P2,NA,30.47666667,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus marginatus,M,Apiary_19,262
+Apiary_13_090920_P15,NA,27.5,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_13,253
+Apiary_14_090920_P17,NA,21.82666667,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_14,253
+Apiary_15_091620_P19,NA,22.78333333,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_15,260
+Apiary_17_090820_P16,NA,22.77333333,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_17,252
+Apiary_17_090820_P18,NA,22.55666667,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_17,252
+Apiary_17_090820_P2,NA,22.31,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_17,252
+Apiary_17_090820_P20,NA,23.205,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_17,252
+Apiary_19_091820_P4-1,NA,27.12,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_19,262
+Apiary_23_091120_P10,NA,23.27333333,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_23,255
+Apiary_23_091120_P17,NA,22.65333333,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_23,255
+Apiary_23_091120_P3,NA,28.37,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_23,255
+Apiary_23_091120_P4,NA,21.87,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_23,255
+Apiary_25_091120_P9,NA,21.10666667,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_25,255
+Apiary_26_090720_P11,NA,23.35,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_26,251
+Apiary_26_090720_P26,NA,34.31,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_26,251
+Apiary_27_090720_P1,NA,21.11,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_27,251
+Apiary_27_090720_P7,NA,22.45666667,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_27,251
+Apiary_8_091320_P13,NA,21.25666667,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,M,Apiary_8,257
+Apiary_8_091320_P6,NA,25.99,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,M,Apiary_8,257
+Apiary_12_091620_P12,NA,21.62666667,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,M,Apiary_12,260
+Apiary_27_090720_P9,NA,22.66,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,M,Apiary_27,251
+Apiary_15_091620_P21,NA,21.20333333,0,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,U,Apiary_15,260
+Apiary_19_092720_P11,NA,15.19666667,0,wild bee,Halictidae,NA,unknown,unknown,F,Apiary_19,271
+Apiary_19_092720_P8,NA,15.69333333,0,wild bee,Halictidae,NA,unknown,unknown,F,Apiary_19,271
+Apiary_27_092820_P21,NA,14.76333333,0,wild bee,Halictidae,NA,unknown,unknown,F,Apiary_27,272
+Apiary_18_090820_P8,NA,15.57666667,0,wild bee,Halictidae,NA,unknown,unknown,F,Apiary_18,252
+Apiary_1_091520_P6,NA,15.07,0,wild bee,Halictidae,NA,unknown,unknown,U,Apiary_1,259
+Apiary_1_091520_P7,NA,19.04,0,wild bee,Halictidae,NA,unknown,unknown,U,Apiary_1,259
+Apiary_1_100120_P5,NA,15.17,0,wild bee,Halictidae,NA,unknown,unknown,U,Apiary_1,275
+Apiary_6_091020_P4,NA,14.47666667,0,wild bee,Halictidae,NA,unknown,unknown,U,Apiary_6,254
+Apiary_13_092320_P7,NA,14.74666667,0,wild bee,Halictidae,NA,unknown,unknown,U,Apiary_13,267
+Apiary_15_092620_P12,NA,14.36,0,wild bee,Halictidae,NA,unknown,unknown,U,Apiary_15,270
+Apiary_16_091020_P18,NA,14.99,0,wild bee,Halictidae,NA,unknown,unknown,U,Apiary_16,254
+Apiary_17_090820_P13,NA,15.69666667,0,wild bee,Halictidae,NA,unknown,unknown,U,Apiary_17,252
+Apiary_13_090920_P9,NA,20.38666667,0,wild bee,Megachilidae,NA,unknown,unknown,U,Apiary_13,253
+Apiary_12_092620_P8,NA,15.39666667,0,wild bee,Megachilidae,NA,unknown,unknown,U,Apiary_12,270
+Apiary_20_091820_P18,NA,27.39333333,0,wild bee,Megachilidae,NA,unknown,unknown,U,Apiary_20,262
+Apiary_11_091120_P5,NA,14.78333333,0,wild bee,Unknown,NA,unknown,unknown,U,Apiary_11,255
+Apiary_20_091820_P7,NA,3.11,0,wild bee,Unknown,NA,unknown,unknown,U,Apiary_20,262
+Apiary_11_091120_P14,NA,13.98,0,wild bee,Unknown,NA,unknown,unknown,F,Apiary_11,255
+Apiary_11_092120_P15,NA,20.37,0,wild bee,Unknown,NA,unknown,unknown,M,Apiary_11,265
+Apiary_8_091320_P7,NA,19.76666667,0,wild bee,Unknown,NA,unknown,unknown,U,Apiary_8,257
+Apiary_25_092120_P6,NA,3.343333333,0,wild bee,Unknown,NA,unknown,unknown,U,Apiary_25,265
+Apiary_2_090420_P8,NA,24.24,0,syrphid,Syrphidae,Syrphinae,unknown,unknown,F,Apiary_2,248
+Apiary_8_100220_P21,NA,31.345,0,syrphid,Syrphidae,Syrphinae,unknown,unknown,F,Apiary_8,276
+Apiary_9_092220_P6,NA,24.11,0,syrphid,Syrphidae,Syrphinae,unknown,unknown,F,Apiary_9,266
+Apiary_11_091120_P25,NA,32.385,0,syrphid,Syrphidae,Syrphinae,unknown,unknown,F,Apiary_11,255
+Apiary_17_092220_P12,NA,30.03,0,syrphid,Syrphidae,Syrphinae,unknown,unknown,F,Apiary_17,266
+Apiary_19_091820_P1,NA,33.24,0,syrphid,Syrphidae,Syrphinae,unknown,unknown,F,Apiary_19,262
+Apiary_24_092320_P5,NA,16.96666667,0,syrphid,Syrphidae,Syrphinae,unknown,unknown,F,Apiary_24,267
+Apiary_26_090720_P23,NA,21.32333333,0,syrphid,Syrphidae,Syrphinae,unknown,unknown,F,Apiary_26,251
+Apiary_23_091120_P24,NA,32.92,0,syrphid,Syrphidae,Syrphinae,unknown,unknown,M,Apiary_23,255
+Apiary_23_091120_P7,NA,32.99,0,syrphid,Syrphidae,Syrphinae,unknown,unknown,M,Apiary_23,255
+Apiary_18_090820_P9,NA,15.44,0,syrphid,Syrphidae,unknown,unknown,unknown,F,Apiary_18,252
+Apiary_14_090920_P14,NA,31.585,0,syrphid,Syrphidae,unknown,unknown,unknown,M,Apiary_14,253
+Apiary_7_091720_P16,NA,13.495,0,wild bee,Apidae,NA,Xylocopa,Xylocopa  virginica,F,Apiary_7,261
+Apiary_7_091720_P18,NA,15.79333333,0,wild bee,Apidae,NA,Xylocopa,Xylocopa  virginica,F,Apiary_7,261
+Apiary_7_091720_P2,NA,16.17333333,0,wild bee,Apidae,NA,Xylocopa,Xylocopa  virginica,M,Apiary_7,261
+Apiary_11_092120_P3,19.08,none,1,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_11,265
+Apiary_26_090720_P6,21.02,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_26,251
+Apiary_10_091220_P6,22.95,27.65333333,1,wild bee,Megachilidae,NA,Megachile,Megachile sp.,F,Apiary_10,256
+Apiary_7_100520_P10,23.02,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,279
+Apiary_5_091420_P16,23.38,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_5,258
+Apiary_26_091920_P12,23.38,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_26,263
+Apiary_8_100220_P17,23.555,22.25333333,1,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis tenax,M,Apiary_8,276
+Apiary_11_092120_P12,24.77,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,265
+Apiary_9_091220_P11,24.98,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_9,256
+Apiary_8_100220_P16,25.14,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_8,276
+Apiary_7_100520_P11,25.23,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,279
+Apiary_21_092020_P5,25.24,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_21,264
+Apiary_15_092620_P7,25.29,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,270
+Apiary_16_092020_P10,25.32,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_16,264
+Apiary_26_091920_P6,25.37,none,1,bumble,Apidae,NA,Bombus,Bombus imaptiens,M,Apiary_26,263
+Apiary_6_091020_P9,25.48,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_6,254
+Apiary_15_091620_P3,25.52,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,260
+Apiary_25_092120_P8,25.72,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_25,265
+Apiary_21_092020_P4,26.15,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_21,264
+Apiary_10_092220_P6,26.17,none,1,bumble,Apidae,NA,Bombus,Bombus sandersoni,M,Apiary_10,266
+Apiary_11_092120_P1,26.37,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_11,265
+Apiary_10_092220_P11,26.71,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_10,266
+Apiary_5_091420_P1,26.8,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,U,Apiary_5,258
+Apiary_5_091420_P24,26.82,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_5,258
+Apiary_26_091920_P14,26.82,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_26,263
+Apiary_9_092220_P10,26.95,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_9,266
+Apiary_26_091920_P5,27.07,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_26,263
+Apiary_5_091420_P21,27.07,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_5,258
+Apiary_26_091920_P24,27.11,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_26,263
+Apiary_8_100220_P13,27.16,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_8,276
+Apiary_5_091420_P9,27.29,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_5,258
+Apiary_3_091520_P3,27.35,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_3,259
+Apiary_21_091020_P15,27.35,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_21,254
+Apiary_26_091920_P4,27.39,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_26,263
+Apiary_4_091420_P2,27.44,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_4,258
+Apiary_23_092120_P11,27.46,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,265
+Apiary_6_092020_P5,27.57,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_6,264
+Apiary_6_091020_P13,27.59,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,U,Apiary_6,254
+Apiary_26_091920_P1,27.66,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_26,263
+Apiary_16_091020_P2,27.76,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_16,254
+Apiary_9_091220_P4,27.78,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_9,256
+Apiary_6_092020_P16,27.82,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_6,264
+Apiary_9_092220_P9,27.83,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_9,266
+Apiary_25_091120_P10,27.88,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,U,Apiary_25,255
+Apiary_15_091620_P15,27.9,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,260
+Apiary_8_100220_P6,27.98,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_8,276
+Apiary_23_092120_P17,27.98,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,265
+Apiary_16_092020_P1,28.01,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,F,Apiary_16,264
+Apiary_1_091520_P14,28.03,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_1,259
+Apiary_11_092120_P16,28.07,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,F,Apiary_11,265
+Apiary_1_100120_P10,28.1,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_1,275
+Apiary_6_092020_P3,28.17,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_6,264
+Apiary_12_092620_P14,28.2,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_12,270
+Apiary_15_092620_P6,28.2,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,270
+Apiary_9_091220_P10,28.24,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_9,256
+Apiary_4_091420_P1,28.37,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_4,258
+Apiary_6_092020_P4,28.37,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_6,264
+Apiary_11_092120_P11,28.39,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,265
+Apiary_8_100220_P10,28.51,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_8,276
+Apiary_4_091420_P6,28.54,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_4,258
+Apiary_26_091920_P9,28.55,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,F,Apiary_26,263
+Apiary_10_092220_P4,28.56,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_10,266
+Apiary_16_091020_P13,28.67,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_16,254
+Apiary_13_092320_P8,28.72,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_13,267
+Apiary_15_091620_P20,28.74,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,260
+Apiary_5_091420_P13,28.76,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_5,258
+Apiary_11_091120_P4,28.83,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,255
+Apiary_9_092220_P16,28.92,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,U,Apiary_9,266
+Apiary_6_091020_P11,28.92,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_6,254
+Apiary_15_091620_P1,28.98,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,Q,Apiary_15,260
+Apiary_18_092220_P9,29.05,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_18,266
+Apiary_6_092020_P14,29.07,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_6,264
+Apiary_14_090920_P16,29.09,14.78333333,1,wild bee,Halictidae,NA,unknown,unknown,F,Apiary_14,253
+Apiary_4_091420_P24,29.11,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_4,258
+Apiary_7_091720_P5,29.11,15.32333333,1,wild bee,Apidae,NA,Melissodes,Melissodes sp.,M,Apiary_7,261
+Apiary_2_091920_P1,29.14,16.73333333,1,wild bee,Apidae,NA,Anthophora,Anthophora sp.,M,Apiary_2,263
+Apiary_9_091220_P6,29.15,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_9,256
+Apiary_21_092020_P6,29.19,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_21,264
+Apiary_16_092020_P11,29.19,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_16,264
+Apiary_26_091920_P11,29.24,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_26,263
+Apiary_11_091120_P2,29.25,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,255
+Apiary_15_091620_P4,29.27,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,F,Apiary_15,260
+Apiary_4_091420_P7,29.3,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_4,258
+Apiary_6_091020_P15,29.31,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_6,254
+Apiary_14_090920_P1,29.34,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_14,253
+Apiary_23_092120_P3,29.34,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,265
+Apiary_8_100220_P14,29.37,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_8,276
+Apiary_26_091920_P8,29.38,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_26,263
+Apiary_15_092620_P11,29.4,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,270
+Apiary_12_092620_P12,29.41,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_12,270
+Apiary_15_092620_P2,29.41,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,270
+Apiary_14_090920_P8,29.425,18.78333333,1,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis arbustorum,M,Apiary_14,253
+Apiary_8_100220_P8,29.51,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_8,276
+Apiary_15_091620_P14,29.54,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_15,260
+Apiary_8_100220_P15,29.56,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_8,276
+Apiary_8_092520_P6,29.61,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,Q,Apiary_8,269
+Apiary_15_091620_P11,29.65,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,260
+Apiary_5_091420_P20,29.66,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,U,Apiary_5,258
+Apiary_10_092220_P12,29.67,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_10,266
+Apiary_15_092620_P10,29.67,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,270
+Apiary_10_092220_P3,29.68,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,F,Apiary_10,266
+Apiary_17_090820_P17,29.71,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_17,252
+Apiary_15_092620_P3,29.72,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,270
+Apiary_10_092220_P1,29.73,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_10,266
+Apiary_17_090820_P7,29.75,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_17,252
+Apiary_26_090720_P29,29.76,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,U,Apiary_26,251
+Apiary_10_091220_P4,29.93,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_10,256
+Apiary_11_091120_P11,30.02,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,255
+Apiary_20_091820_P12,30.02,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_20,262
+Apiary_11_091120_P16,30.03,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,255
+Apiary_6_091020_P10,30.04,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_6,254
+Apiary_18_092220_P13,30.04,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_18,266
+Apiary_18_092220_P11,30.05,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_18,266
+Apiary_16_092020_P7,30.06,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_16,264
+Apiary_7_100520_P1,30.09,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,279
+Apiary_18_092220_P6,30.13,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_18,266
+Apiary_18_092220_P8,30.13,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_18,266
+Apiary_8_100220_P11,30.14,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_8,276
+Apiary_24_092320_P10,30.2,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_24,267
+Apiary_4_091420_P12,30.22,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,U,Apiary_4,258
+Apiary_12_091620_P7,30.22,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_12,260
+Apiary_10_091220_P16,30.26,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_10,256
+Apiary_9_091220_P8,30.28,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_9,256
+Apiary_15_092620_P1,30.31,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,270
+Apiary_25_091120_P4,30.34,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_25,255
+Apiary_18_092220_P2,30.35,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_18,266
+Apiary_9_092220_P3,30.39,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,U,Apiary_9,266
+Apiary_17_092220_P13,30.405,22.6,1,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis tenax,M,Apiary_17,266
+Apiary_9_092220_P8,30.41,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_9,266
+Apiary_18_090820_P2,30.42,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,U,Apiary_18,252
+Apiary_23_091120_P23,30.48,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,255
+Apiary_8_100220_P7,30.49,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_8,276
+Apiary_15_092620_P8,30.51,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,270
+Apiary_7_100520_P9,30.53,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,279
+Apiary_3_091520_P2,30.59,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_3,259
+Apiary_23_092120_P15,30.59,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,265
+Apiary_14_092320_P3,30.61,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,F,Apiary_14,267
+Apiary_23_092120_P12,30.61,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,265
+Apiary_26_090720_P15,30.62,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_26,251
+Apiary_23_091120_P11,30.66,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,255
+Apiary_5_091420_P4,30.69,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_5,258
+Apiary_26_090720_P22,30.71,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_26,251
+Apiary_15_092620_P4,30.71,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,270
+Apiary_4_091420_P22,30.72,none,1,bumble,Apidae,NA,Bombus,Bombus griseocollis,M,Apiary_4,258
+Apiary_23_091120_P15,30.72,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,255
+Apiary_26_090720_P28-B,30.73,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_26,251
+Apiary_11_091120_P6,30.76,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,255
+Apiary_3_091520_P1,30.78,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_3,259
+Apiary_4_091420_P14,30.78,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_4,258
+Apiary_7_100520_P15,30.86,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,279
+Apiary_8_092520_P4,30.89,20.21333333,1,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis arbustorum,M,Apiary_8,269
+Apiary_6_092020_P6,30.95,17.46,1,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,M,Apiary_6,264
+Apiary_25_092120_P3,30.96,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_25,265
+Apiary_4_091420_P13,30.98,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_4,258
+Apiary_9_092220_P7,31.02,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,U,Apiary_9,266
+Apiary_18_090820_P6,31.03,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,U,Apiary_18,252
+Apiary_23_092120_P5,31.05,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,265
+Apiary_14_090920_P2,31.05,16.14,1,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis sp.,F,Apiary_14,253
+Apiary_3_091520_P14,31.07,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_3,259
+Apiary_6_091020_P20,31.07,31.105,1,syrphid,Syrphidae,unknown,unknown,unknown,F,Apiary_6,254
+Apiary_5_091420_P5,31.08,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_5,258
+Apiary_19_092720_P6,31.08,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_19,271
+Apiary_15_092620_P9,31.08,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,270
+Apiary_23_091120_P5,31.08,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,255
+Apiary_21_092020_P11,31.085,15.97666667,1,wild bee,Unknown,NA,unknown,unknown,U,Apiary_21,264
+Apiary_26_090720_P10,31.09,19.55,1,wild bee,Halictidae,NA,Halictus,Halictus sp.,M,Apiary_26,251
+Apiary_11_092120_P14,31.1,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,265
+Apiary_10_091220_P13,31.16,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_10,256
+Apiary_8_091320_P2,31.16,26.565,1,wild bee,Megachilidae,NA,unknown,unknown,F,Apiary_8,257
+Apiary_27_092820_P19,31.18,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_27,272
+Apiary_16_092020_P14,31.19,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_16,264
+Apiary_27_090720_P10,31.19,26.67,1,wild bee,Megachilidae,NA,Megachile,Megachile sp.,U,Apiary_27,251
+Apiary_8_091320_P21,31.2,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_8,257
+Apiary_13_090920_P1,31.2,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_13,253
+Apiary_9_092220_P5,31.235,20.25,1,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis flavipes,F,Apiary_9,266
+Apiary_9_091220_P16,31.24,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_9,256
+Apiary_8_100220_P12,31.25,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_8,276
+Apiary_2_091920_P16,31.26,none,1,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_2,263
+Apiary_23_092120_P16,31.27,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,265
+Apiary_26_090720_P25,31.28,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_26,251
+Apiary_13_092320_P1,31.32,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_13,267
+Apiary_16_092020_P12,31.34,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_16,264
+Apiary_11_091120_P1,31.35,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,255
+Apiary_1_100120_P9,31.36,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_1,275
+Apiary_23_091120_P1,31.36,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,255
+Apiary_4_091420_P17,31.37,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_4,258
+Apiary_7_100520_P12,31.38,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,279
+Apiary_1_091520_P13,31.39,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_1,259
+Apiary_27_100120_P1,31.39,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_27,275
+Apiary_5_091420_P8,31.4,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_5,258
+Apiary_26_091920_P3,31.42,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,U,Apiary_26,263
+Apiary_26_091920_P13,31.45,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,U,Apiary_26,263
+Apiary_16_091020_P15,31.45,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_16,254
+Apiary_14_092320_P2,31.46,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_14,267
+Apiary_15_092620_P5,31.46,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,270
+Apiary_21_092020_P8,31.47,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_21,264
+Apiary_15_091620_P5,31.53,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_15,260
+Apiary_15_091620_P8,31.55,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,260
+Apiary_2_091920_P4,31.58,none,1,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_2,263
+Apiary_7_091720_P4,31.58,27.11,1,wild bee,Megachilidae,NA,Megachile,Megachile sp.,F,Apiary_7,261
+Apiary_3_091520_P11,31.6,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_3,259
+Apiary_23_091120_P18,31.61,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,255
+Apiary_23_092120_P13,31.61,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,265
+Apiary_18_090820_P13,31.68,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_18,252
+Apiary_4_091420_P8,31.76,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,F,Apiary_4,258
+Apiary_13_092320_P13,31.76,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_13,267
+Apiary_5_091420_P19,31.78,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_5,258
+Apiary_9_091220_P5,31.79,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_9,256
+Apiary_1_091520_P17,31.81,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_1,259
+Apiary_8_091320_P22,31.81,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_8,257
+Apiary_17_092220_P6,31.82,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,F,Apiary_17,266
+Apiary_6_091020_P1,31.83,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_6,254
+Apiary_23_092120_P1,31.83,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,265
+Apiary_4_091420_P4,31.84,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_4,258
+Apiary_5_091420_P7,31.87,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_5,258
+Apiary_23_091120_P25,31.94,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,255
+Apiary_6_091020_P14,31.95,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_6,254
+Apiary_3_091520_P9,32,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_3,259
+Apiary_7_100520_P2,32.01,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,279
+Apiary_10_091220_P12,32.05,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_10,256
+Apiary_8_091320_P11,32.1,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_8,257
+Apiary_10_092220_P2,32.12,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_10,266
+Apiary_19_091820_P18,32.125,21.575,1,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis dimidiata,M,Apiary_19,262
+Apiary_4_091420_P10,32.14,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_4,258
+Apiary_18_092220_P10,32.18,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_18,266
+Apiary_27_100120_P4,32.19,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,275
+Apiary_21_092020_P17,32.23,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_21,264
+Apiary_18_090820_P10,32.24,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,U,Apiary_18,252
+Apiary_11_091120_P13,32.24,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,255
+Apiary_27_092820_P15,32.27,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_5_091420_P14,32.28,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_5,258
+Apiary_4_091420_P21,32.28,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_4,258
+Apiary_6_091020_P12,32.28,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_6,254
+Apiary_3_092420_P7,32.29,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_3,268
+Apiary_11_092120_P8,32.29,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,265
+Apiary_9_091220_P9,32.3,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,U,Apiary_9,256
+Apiary_19_092720_P1,32.31,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_19,271
+Apiary_11_092120_P6,32.31,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,265
+Apiary_23_091120_P12,32.32,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_23,255
+Apiary_4_091420_P3,32.34,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_4,258
+Apiary_16_092020_P8,32.37,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,F,Apiary_16,264
+Apiary_5_091420_P11,32.39,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,F,Apiary_5,258
+Apiary_7_100520_P3,32.42,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,279
+Apiary_9_091220_P1,32.44,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_9,256
+Apiary_8_091320_P8,32.45,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_8,257
+Apiary_16_091020_P7,32.48,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_16,254
+Apiary_1_100120_P1,32.48,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_1,275
+Apiary_4_091420_P20,32.48,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_4,258
+Apiary_19_092720_P9,32.53,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_19,271
+Apiary_4_091420_P11,32.6,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,U,Apiary_4,258
+Apiary_21_091020_P8,32.6,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_21,254
+Apiary_7_100520_P18,32.61,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,279
+Apiary_16_091020_P1,32.61,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_16,254
+Apiary_3_091520_P6,32.62,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_3,259
+Apiary_15_091620_P7,32.66,14.65,1,wild bee,Apidae,NA,Melissodes,Melissodes sp.,U,Apiary_15,260
+Apiary_24_092320_P11,32.71,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_24,267
+Apiary_6_092020_P7,32.72,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_6,264
+Apiary_19_091820_P9,32.74,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_19,262
+Apiary_26_090720_P2,32.76,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_26,251
+Apiary_26_090720_P8,32.78,15.19,1,wild bee,Halictidae,NA,Augochlora,Augochlora sp.,F,Apiary_26,251
+Apiary_5_091420_P23,32.81,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_5,258
+Apiary_7_100520_P14,32.84,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,279
+Apiary_4_091420_P5,32.84,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_4,258
+Apiary_3_092420_P16,32.87,none,1,bumble,Apidae,NA,Bombus,Bombus bimaculatus,M,Apiary_3,268
+Apiary_4_091420_P16,32.88,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_4,258
+Apiary_13_092320_P2,32.88,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_13,267
+Apiary_2_091920_P24,32.9,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_2,263
+Apiary_8_091320_P16,32.9,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_8,257
+Apiary_24_091220_P6,32.9,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_24,256
+Apiary_23_092120_P9,32.99,17.21,1,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,U,Apiary_23,265
+Apiary_1_091520_P20,32.99,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_1,259
+Apiary_17_092220_P7,33.01,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_17,266
+Apiary_11_092120_P5,33.01,none,1,bumble,Apidae,NA,Bombus,Bombus vagans,W,Apiary_11,265
+Apiary_2_090420_P12,33.03,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_2,248
+Apiary_21_091020_P2,33.04,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_21,254
+Apiary_17_092220_P8,33.04,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_17,266
+Apiary_7_100520_P5,33.06,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,279
+Apiary_13_092320_P20,33.08,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_13,267
+Apiary_7_100520_P8,33.1,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,279
+Apiary_13_092320_P22,33.11,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_13,267
+Apiary_25_091120_P1,33.11,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_25,255
+Apiary_10_092220_P10,33.12,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_10,266
+Apiary_2_091920_P12,33.12,none,1,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_2,263
+Apiary_10_092220_P9,33.15,none,1,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_10,266
+Apiary_13_090920_P10,33.155,24.60666667,1,syrphid,Syrphidae,Syrphinae,unknown,unknown,F,Apiary_13,253
+Apiary_1_091520_P1,33.16,none,1,bumble,Apidae,NA,Bombus,Bombus bimaculatus,M,Apiary_1,259
+Apiary_4_091420_P19,33.16,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_4,258
+Apiary_26_090720_P16,33.19,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_26,251
+Apiary_4_091420_P25,33.2,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_4,258
+Apiary_11_091120_P7,33.2,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,255
+Apiary_17_092220_P5,33.21,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,F,Apiary_17,266
+Apiary_13_090920_P7,33.22,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_13,253
+Apiary_5_091420_P12,33.22,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,Q,Apiary_5,258
+Apiary_3_091520_P10,33.24,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_3,259
+Apiary_9_092220_P11,33.245,15.77666667,1,wild bee,Apidae,NA,Anthophora,Anthophora sp.,F,Apiary_9,266
+Apiary_3_092420_P6,33.25,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_3,268
+Apiary_18_092220_P7,33.28,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_18,266
+Apiary_22_091420_P10,33.29,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_22,258
+Apiary_13_090920_P4,33.31,none,1,wild bee,Apidae,NA,Xylocopa,Xylocopa virginica,U,Apiary_13,253
+Apiary_6_092020_P11,33.34,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,F,Apiary_6,264
+Apiary_5_091420_P6,33.38,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_5,258
+Apiary_4_091420_P15,33.4,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_4,258
+Apiary_13_092320_P21,33.4,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_13,267
+Apiary_13_090920_P6,33.41,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,F,Apiary_13,253
+Apiary_2_091920_P14,33.44,none,1,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_2,263
+Apiary_8_100220_P4,33.45,26.84333333,1,wild bee,Megachilidae,NA,Megachile,Megachile sp.,F,Apiary_8,276
+Apiary_2_091920_P21,33.46,none,1,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_2,263
+Apiary_15_091620_P13,33.47,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_15,260
+Apiary_21_092020_P2,33.47,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_21,264
+Apiary_14_092320_P1,33.49,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,Q,Apiary_14,267
+Apiary_25_091120_P5,33.49,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_25,255
+Apiary_13_092320_P12,33.51,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_13,267
+Apiary_17_090820_P8,33.51,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_17,252
+Apiary_2_090420_P4,33.535,14.67333333,1,wild bee,Andrenidae,NA,Andrena,Andrena sp.,U,Apiary_2,248
+Apiary_5_091420_P10,33.54,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_5,258
+Apiary_3_091520_P8,33.57,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_3,259
+Apiary_5_091420_P15,33.6,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_5,258
+Apiary_2_091920_P7,33.62,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_2,263
+Apiary_13_092320_P9,33.63,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_13,267
+Apiary_7_100520_P13,33.66,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,279
+Apiary_27_092820_P12,33.66,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_22_091420_P1,33.67,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_22,258
+Apiary_5_091420_P18,33.695,15.06,1,wild bee,Apidae,NA,Melissodes,Melissodes sp.,U,Apiary_5,258
+Apiary_7_100520_P6,33.7,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_7,279
+Apiary_17_090820_P15,33.77,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_17,252
+Apiary_24_092320_P15,33.77,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_24,267
+Apiary_25_092120_P18,33.77,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_25,265
+Apiary_12_092620_P3,33.79,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_12,270
+Apiary_3_092420_P5,33.83,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_3,268
+Apiary_19_091820_P17,33.86,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_19,262
+Apiary_24_092320_P1,33.86,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_24,267
+Apiary_9_091220_P7,33.91,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,F,Apiary_9,256
+Apiary_1_091520_P8,33.91,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_1,259
+Apiary_20_092720_P14,33.91,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_20,271
+Apiary_8_091320_P10,33.98,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_8,257
+Apiary_2_091920_P11,33.98,none,1,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_2,263
+Apiary_12_092620_P6,33.99,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_12,270
+Apiary_19_092720_P5,33.99,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_19,271
+Apiary_8_100220_P18,34.025,22.25333333,1,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis tenax,M,Apiary_8,276
+Apiary_9_092220_P17,34.03,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,U,Apiary_9,266
+Apiary_25_092120_P7,34.03,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_25,265
+Apiary_23_092120_P7,34.04,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_23,265
+Apiary_17_092220_P15,34.04,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_17,266
+Apiary_3_092420_P8,34.05,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_3,268
+Apiary_18_092220_P14,34.06,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_18,266
+Apiary_11_091120_P9,34.06,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,255
+Apiary_5_091420_P22,34.085,24.71,1,syrphid,Syrphidae,Syrphinae,unknown,unknown,M,Apiary_5,258
+Apiary_4_091420_P18,34.09,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_4,258
+Apiary_2_091920_P22,34.09,none,1,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_2,263
+Apiary_11_092120_P9,34.11,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_11,265
+Apiary_8_092520_P8,34.11,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_8,269
+Apiary_16_092020_P4,34.115,17.03,1,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,M,Apiary_16,264
+Apiary_13_092320_P14,34.125,15.77,1,wild bee,Apidae,NA,Xylocopa,Xylocopa  virginica,F,Apiary_13,267
+Apiary_18_092220_P19,34.14,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,F,Apiary_18,266
+Apiary_2_090420_P6,34.15,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_2,248
+Apiary_13_090920_P3,34.15,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_13,253
+Apiary_24_092320_P9,34.16,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_24,267
+Apiary_8_100220_P3,34.175,21.39333333,1,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis sp.,F,Apiary_8,276
+Apiary_11_091120_P20,34.19,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,255
+Apiary_18_092220_P1,34.21,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_18,266
+Apiary_12_092620_P13,34.22,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_12,270
+Apiary_14_090920_P5,34.23,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_14,253
+Apiary_20_091820_P3,34.24,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_20,262
+Apiary_11_091120_P8,34.28,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_11,255
+Apiary_14_092320_P5,34.29,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_14,267
+Apiary_25_091120_P3,34.34,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_25,255
+Apiary_8_100220_P19,34.34,21.71333333,1,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis dimidiata,F,Apiary_8,276
+Apiary_21_091020_P11,34.35,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_21,254
+Apiary_2_091920_P20,34.36,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_2,263
+Apiary_10_092220_P8,34.36,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_10,266
+Apiary_8_100220_P9,34.375,20.99333333,1,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis tenax,F,Apiary_8,276
+Apiary_12_092620_P5,34.38,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_12,270
+Apiary_11_091120_P21,34.39,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,Q,Apiary_11,255
+Apiary_2_091920_P6,34.4,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_2,263
+Apiary_27_092820_P20,34.42,15.02,1,wild bee,Halictidae,NA,unknown,unknown,F,Apiary_27,272
+Apiary_15_091620_P2,34.46,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_15,260
+Apiary_2_091920_P15,34.47,none,1,bumble,Apidae,NA,Bombus,Bombus vagans,M,Apiary_2,263
+Apiary_27_092820_P17,34.54,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_10_091220_P2,34.55,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_10,256
+Apiary_27_092820_P7,34.58,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_27,272
+Apiary_19_092720_P15,34.58,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_19,271
+Apiary_18_092220_P18,34.585,20.79333333,1,wild bee,Megachilidae,NA,unknown,unknown,M,Apiary_18,266
+Apiary_1_100120_P6,34.6,15.77,1,wild bee,Halictidae,NA,unknown,unknown,U,Apiary_1,275
+Apiary_1_091520_P12,34.61,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_1,259
+Apiary_4_091420_P9,34.62,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,U,Apiary_4,258
+Apiary_14_092320_P13,34.63,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_14,267
+Apiary_22_091420_P16,34.65,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_22,258
+Apiary_13_092320_P16,34.65,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_13,267
+Apiary_26_090720_P3,34.68,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_26,251
+Apiary_14_092320_P15,34.71,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_14,267
+Apiary_18_092220_P16,34.72,20.63666667,1,wild bee,Megachilidae,NA,unknown,unknown,M,Apiary_18,266
+Apiary_21_091020_P3,34.74,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_21,254
+Apiary_11_091120_P10,34.76,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,U,Apiary_11,255
+Apiary_3_091520_P7,34.77,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_3,259
+Apiary_17_090820_P10,34.78,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,F,Apiary_17,252
+Apiary_23_091120_P8,34.78,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,Q,Apiary_23,255
+Apiary_13_092320_P15,34.8,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_13,267
+Apiary_16_091020_P8,34.8,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_16,254
+Apiary_5_091420_P17,34.82,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_5,258
+Apiary_20_092720_P11,34.825,15.4,1,wild bee,Apidae,NA,Xylocopa,Xylocopa virginica,M,Apiary_20,271
+Apiary_24_091220_P7,34.83,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,F,Apiary_24,256
+Apiary_10_092220_P5,34.86,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_10,266
+Apiary_20_091820_P25,34.86,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_20,262
+Apiary_13_092320_P19,34.87,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,M,Apiary_13,267
+Apiary_12_092620_P7,34.87,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_12,270
+Apiary_13_092320_P11,34.9,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_13,267
+Apiary_22_091420_P6,34.9,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_22,258
+Apiary_21_091020_P13,34.9,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,U,Apiary_21,254
+Apiary_14_090920_P15,34.93,none,1,bumble,Apidae,NA,Bombus,Bombus sp.,W,Apiary_14,253
+Apiary_21_091020_P7,34.94,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_21,254
+Apiary_9_091220_P12,34.97,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_9,256
+Apiary_9_091220_P14,34.975,15.04666667,1,wild bee,Apidae,NA,Melissodes,Melissodes sp.,U,Apiary_9,256
+Apiary_20_091820_P14,34.98,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,F,Apiary_20,262
+Apiary_3_092420_P3,34.98,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,M,Apiary_3,268
+Apiary_20_091820_P27,34.99,none,1,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_20,262
+Apiary_3_092420_P10,25.293333333333333,23.18,1,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus geminatus,M,Apiary_3,268
+Apiary_14_090920_P12,26.416666666666668,14.92333333,1,wild bee,Halictidae,NA,unknown,unknown,F,Apiary_14,253
+Apiary_13_092320_P17,27.14666666666667,15.76,1,wild bee,Apidae,NA,Xylocopa,Xylocopa  virginica,F,Apiary_13,267
+Apiary_6_092020_P13,27.21333333333333,15.96333333,1,wild bee,Unknown,NA,unknown,unknown,F,Apiary_6,264
+Apiary_14_090920_P13,27.543333333333333,19.43666667,1,wild bee,Halictidae,NA,Lasioglossum,Lasioglossum sp.,U,Apiary_14,253
+Apiary_14_090920_P11,28.596666666666664,21.45,1,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis sp.,F,Apiary_14,253
+Apiary_13_090920_P12,28.924999999999997,30.10666667,1,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus marginatus,M,Apiary_13,253
+Apiary_6_092020_P17,29.373333333333335,16.94,1,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,M,Apiary_6,264
+Apiary_18_090820_P11,29.776666666666667,20.46333333,1,wild bee,Halictidae,NA,Lasioglossum,Lasioglossum sp.,M,Apiary_18,252
+Apiary_21_092020_P13,29.94333333333333,17.26333333,1,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,U,Apiary_21,264
+Apiary_14_090920_P9,29.963333333333335,19.7,1,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis arbustorum,M,Apiary_14,253
+Apiary_23_092120_P4,29.986666666666668,15.20333333,1,wild bee,Apidae,NA,Xylocopa,Xylocopa virginica,F,Apiary_23,265
+Apiary_24_091220_P9,31.005000000000003,14.28,1,wild bee,Apidae,NA,Melissodes,Melissodes sp.,U,Apiary_24,256
+Apiary_8_092520_P12,31.406666666666663,21.20666667,1,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis tenax,M,Apiary_8,269
+Apiary_10_092220_P7,31.854999999999997,14.58,1,syrphid,Syrphidae,Syrphinae,Platycheirus/Melanostoma,unknown,F,Apiary_10,266
+Apiary_27_090720_P8,32.04333333333333,26.99666667,1,wild bee,Megachilidae,NA,Megachile,Megachile sp.,M,Apiary_27,251
+Apiary_8_092520_P5,32.18666666666667,14.48,1,bumble,Apidae,NA,Bombus,Bombus sp.,Q,Apiary_8,269
+Apiary_23_091120_P21,32.629999999999995,17.25,1,wild bee,Halictidae,NA,Agapostemon,Agapostemon sp.,U,Apiary_23,255
+Apiary_23_091120_P2,32.64666666666667,20.58666667,1,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis transversa,F,Apiary_23,255
+Apiary_26_090720_P1,32.699999999999996,21.975,1,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_26,251
+Apiary_7_100520_P17,32.71333333333333,22.00333333,1,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis dimidiata,F,Apiary_7,279
+Apiary_13_092320_P10,32.864999999999995,15.24,1,wild bee,Apidae,NA,Xylocopa,Xylocopa  virginica,F,Apiary_13,267
+Apiary_8_091320_P3,33.084999999999994,21.59333333,1,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus geminatus,M,Apiary_8,257
+Apiary_27_090720_P4,33.163333333333334,28.715,1,syrphid,Syrphidae,Syrphinae,unknown,unknown,M,Apiary_27,251
+Apiary_26_090720_P27,33.254999999999995,14.7,1,wild bee,Halictidae,NA,unknown,unknown,U,Apiary_26,251
+Apiary_13_090920_P8,33.47666666666667,2.333333333,1,wild bee,Andrenidae,NA,Andrena,Andrena sp.,F,Apiary_13,253
+Apiary_13_090920_P18,33.480000000000004,14.57333333,1,wild bee,Halictidae,NA,unknown,unknown,U,Apiary_13,253
+Apiary_13_090920_P11,33.53666666666667,23.15,1,syrphid,Syrphidae,Syrphinae,Sphaerophoria,Sphaerophoria sp.,F,Apiary_13,253
+Apiary_26_090720_P28,33.556666666666665,24.86333333,1,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_26,251
+Apiary_16_091020_P16,33.769999999999996,15.25333333,1,wild bee,Andrenidae,NA,Andrena,Andrena sp.,F,Apiary_16,254
+Apiary_14_090920_P19,34.245000000000005,20.84666667,1,syrphid,Syrphidae,Syrphinae,Toxomerus,Toxomerus politus,F,Apiary_14,253
+Apiary_10_091220_P14,34.254999999999995,19.94,1,wild bee,Halictidae,NA,Halictus,Halictus ligatus,F,Apiary_10,256
+Apiary_10_091220_P8,34.30500000000001,27.4,1,wild bee,Megachilidae,NA,Megachile,Megachile sp.,M,Apiary_10,256
+Apiary_3_092420_P4,34.480000000000004,15.47,1,wild bee,Apidae,NA,Melissodes,Melissodes sp.,U,Apiary_3,268
+Apiary_27_090720_P6,34.858333333333334,14.41,1,wild bee,Halictidae,NA,unknown,unknown,U,Apiary_27,251
