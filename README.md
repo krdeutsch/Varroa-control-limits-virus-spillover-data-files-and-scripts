@@ -16,7 +16,7 @@ This repository contains supporting files and code associated with the submitted
     - Sampling_Date : the date each colony was sampled to measure varroa loads
     - Julian_Day : the 2020 Julian day for the date the sample was collected
     - Apiary_ID : identification code for the apiary at which the sample was collected
-    - Num_colonies : there number of colonies in the apiary where the colony was located
+    - Num_colonies : the number of colonies in the apiary where the colony was located
     - Percent_varroa : the number of mites per 100 bees (percent infestation level) in the colony
     - Virus_Screening : denotes whether the colony was included in subsequent DWV screening (Yes = bees from the colony were screened for DWV, No = bees from the colony were not screened for DWV)
 *Note that only a subset of colonies included in this dataset were selected for DWV screening, but data from all colonies were included to calculate apiary-average varroa levels.*
@@ -37,7 +37,7 @@ This repository contains supporting files and code associated with the submitted
     - `Quadrat #` : below the site level, this denotes the quadrat in which the flower was collected (4-10 quadrats per sampling date)
     - `# of HB Visits` :  the number of honey bee visits to goldenrod flowers within the quadrat from which the flower was collected, during a five-minute period (NA = no honey bee observation data was collected from the quadrat)
     - `Distance to colonies (m)` : the distance of the quadrat in which the flower was collected from the nearest honey bee colony in the apiary (in meters)
-    - Virus_Screening : denotes whether the flower was included in subsequent DWV screening (Yes = flowers were screened for DWV, No = flowers were not screened for DWV but visitation data)
+    - Virus_Screening : denotes whether the flower was included in subsequent DWV screening (Yes = flowers were screened for DWV, No = flowers were not screened for DWV)
 *Note that only a subset of flowers included in this dataset were selected for DWV screening, but data from all quadrats were included to calculate apiary-average honey bee visitation estimates.*
 
 #### (4) **flower.dwv.data.csv** : presence / absence of DWV on goldenrod flowers
@@ -57,7 +57,8 @@ This repository contains supporting files and code associated with the submitted
     - Apiary_ID : identification code for the apiary at which the sample was collected
     - Julian_Day : the 2020 Julian day for the date the sample was collected
     - DWV_Cq : the Cq value from qPCR screening for the DWV target in the sample (average value from 3 technical replicates for syrphid flies and wild bees, single value for bumble bees; NA denotes non-detections)
-    - Reference_Cq : the Cq value from qPCR screening for the reference target in the sample (average value from 3 technical replicates for syrphid flies and wild bees; bumble bees were not screened for a reference gene and this is denoted "none")
+    - Reference_Cq : the Cq value from qPCR screening for the reference target in the sample (average value from 3 technical replicates for syrphid flies and wild bees; bumble bees and two Xylocopa virginica
+ were not screened for a reference gene and this is denoted "none")
     - DWV_presence : the presence or absence of DWV in each sample (0 = absent, 1 = present; Cq values above 35 were treated as non-detections and coded as "0")
 
 ## Code/Software
