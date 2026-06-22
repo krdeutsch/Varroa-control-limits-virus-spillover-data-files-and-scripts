@@ -1,4 +1,4 @@
-Sample_ID,Apiary_ID,Sampling_Date,Julian_Day,Quadrat #,# of HB Visits,Distance to colonies (m),Virus_Screening
+Sample_ID,Apiary_ID,Sampling_Date,Day_of_Year,Quadrat #,# of HB Visits,Distance to colonies (m),Virus_Screening
 Apiary_1_091520_F1,Apiary_1,9/15/2020,259,1,3,40,No
 Apiary_1_091520_F10,Apiary_1,9/15/2020,259,4,NA,60,No
 Apiary_1_091520_F11,Apiary_1,9/15/2020,259,4,NA,60,No
