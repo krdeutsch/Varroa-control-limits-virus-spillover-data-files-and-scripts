@@ -1,4 +1,4 @@
-Sample_ID,Sampling_Date,Julian_Day,Apiary_ID,Num_colonies,Percent_varroa,Virus_Screening
+Sample_ID,Sampling_Date,Day_of_Year,Apiary_ID,Num_colonies,Percent_varroa,Virus_Screening
 Apiary_1-225,9/22/2020,266,Apiary_1,28,6.96,Yes
 Apiary_1-226,9/22/2020,266,Apiary_1,28,3.03,Yes
 Apiary_1-227,9/22/2020,266,Apiary_1,28,1.8,Yes
