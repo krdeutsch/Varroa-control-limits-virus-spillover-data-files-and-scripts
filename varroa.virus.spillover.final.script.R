@@ -111,14 +111,14 @@ HB_site2 <-HB_loads %>%
   mutate(thresh =ifelse(varroa_avg > 3, "Above Threshold","Below Threshold"))
 
 # Here we use a LMM to test the effect of varroa level on DWV loads in honey bees, by correlating virus loads from individual colonies with apiary-level varroa averages
-site_model.whole <- lmer(logtwoddCT~logv_avg+Julian_Day+Num_colonies+(1|Apiary_ID), data=HB_site2)
+site_model.whole <- lmer(logtwoddCT~logv_avg+Day_of_Year+Num_colonies+(1|Apiary_ID), data=HB_site2)
 drop1(site_model.whole)
 # Evaluate residuals for the model
 resids_site<- simulateResiduals(site_model.whole)
 plot(resids_site)
 
 # Here we use a LMM to test the effect of binary apiary-level varroa control (on average, the apiary is above vs below treatment threshold) on DWV loads in honey bees
-site_model.thresh <-lmer(logtwoddCT~thresh +Num_colonies+Julian_Day+(1|Apiary_ID), data=HB_site2)
+site_model.thresh <-lmer(logtwoddCT~thresh +Num_colonies+Day_of_Year+(1|Apiary_ID), data=HB_site2)
 drop1(site_model.thresh)
 # Evaluate residuals for the model
 resids_site.thresh<- simulateResiduals(site_model.thresh)
@@ -184,7 +184,7 @@ Figure.1 <- grid.arrange(Fig_1A, Fig_1B, ncol=3, widths = c(0.85,0.04, 0.6), lay
 ## Individual colony models ----
 # Now we correlate virus and varroa loads from the SAME colony 
 # Here we use an LMM to test the effect of varroa level on DWV loads in honey bees at the individual colony level
-individ_load_model.whole <- lmer(logtwoddCT~logv+Num_colonies +Julian_Day+(1|Apiary_ID), data=HB_loads)
+individ_load_model.whole <- lmer(logtwoddCT~logv+Num_colonies +Day_of_Year+(1|Apiary_ID), data=HB_loads)
 drop1(individ_load_model.whole)
 # Evaluate residuals for the model
 resids.hb.indiv <- simulateResiduals(individ_load_model.whole)
@@ -224,7 +224,7 @@ flower_prev = flower.dwv.data %>%
   mutate(thresh=ifelse(varroa_avg > 3, "Above Threshold","Below Threshold"))
 
 ## Varroa & Visitation Analyses ----
-# We want to combine our data on DWV presence on flowers with our apiary-level metadata (average varroa load, honey bee visitation, colony density) and Julian day 
+# We want to combine our data on DWV presence on flowers with our apiary-level metadata (average varroa load, honey bee visitation, colony density) and day of year 
 flower_dwv <- flower.dwv.data %>% 
   left_join(full.flower.meta, by="Sample_ID") %>%
   select(-c(Apiary_ID.y,Virus_Screening)) %>% 
@@ -234,14 +234,14 @@ flower_dwv <- flower.dwv.data %>%
 View(flower_dwv)
 
 # Here we use a GLMM to test the effect of varroa level and honey bee visitation rate on flower DWV prevalence 
-flower.model.whole <-glmmTMB(DWV_presence~varroa_avg +avg.hb.visitation+Julian_Day+(1|Apiary_ID), family=binomial, data=flower_dwv)
+flower.model.whole <-glmmTMB(DWV_presence~varroa_avg +avg.hb.visitation+Day_of_Year+(1|Apiary_ID), family=binomial, data=flower_dwv)
 drop1(flower.model.whole,test="Chisq")
 # Evaluate residuals for the model
 resids.flower <- simulateResiduals(flower.model.whole)
 plot(resids.flower)
 
 ### Here we use a GLMM  to test the effect of binary apiary-level varroa control on flower DWV prevalence (above or below treatment threshold)
-flower.model.thresh<- glmmTMB(DWV_presence~thresh +avg.hb.visitation+Julian_Day+ (1|Apiary_ID), family="binomial", data=flower_dwv)
+flower.model.thresh<- glmmTMB(DWV_presence~thresh +avg.hb.visitation+Day_of_Year+ (1|Apiary_ID), family="binomial", data=flower_dwv)
 drop1(flower.model.thresh, test="Chisq")
 # Evaluate residuals for the model
 resids.flower.thresh <- simulateResiduals(flower.model.thresh)
@@ -304,7 +304,7 @@ flower_dwv_dist <- flower_dwv %>%
   mutate(thresh=ifelse(varroa_avg > 3, "above","below"))
 
 # Here we use a GLMM to test the effect of distance and apiary-average varroa level on the likelihood of DWV presence on flowers
-flower.dist.model.whole <- glmmTMB(DWV_presence~ varroa_avg+`Distance to colonies (m)`+Julian_Day+(1|Apiary_ID/quadrat_date), family=binomial, data=flower_dwv_dist)
+flower.dist.model.whole <- glmmTMB(DWV_presence~ varroa_avg+`Distance to colonies (m)`+Day_of_Year+(1|Apiary_ID/quadrat_date), family=binomial, data=flower_dwv_dist)
 drop1(flower.dist.model.whole, test="Chisq")
 # Evaluate residuals for the model
 resids.flower.dist <- simulateResiduals(flower.dist.model.whole)
@@ -354,14 +354,14 @@ bumble_prev <- poll_DWV %>%
   mutate(thresh=ifelse(varroa_avg > 3, "Above Threshold","Below Threshold"))
 
 ## Here we use a GLMM to test the effect of varroa levels on DWV presence in bumble bees by correlating bumble bee DWV prevalence across with apiary-average varroa loads and colony density 
-bumble.model.whole <-glmmTMB(DWV_presence~varroa_avg+ Julian_Day+Num_colonies +(1|Apiary_ID), family=binomial, data=bumble_dwv)
+bumble.model.whole <-glmmTMB(DWV_presence~varroa_avg+ Day_of_Year+Num_colonies +(1|Apiary_ID), family=binomial, data=bumble_dwv)
 drop1(bumble.model.whole, test="Chisq")
 # Evaluate residuals for the model
 resids.bumble <- simulateResiduals(bumble.model.whole)
 plot(resids.bumble)
 
 # Here we use a GLMM to test the effect of binary apiary-level varroa control (on average, the apiary is above vs below treatment threshold) on DWV presence in bumble bees
-bumble.thresh.model <-  glmmTMB(DWV_presence~ thresh+Julian_Day+ Num_colonies+ (1|Apiary_ID), family=binomial, data=bumble_dwv)
+bumble.thresh.model <-  glmmTMB(DWV_presence~ thresh+Day_of_Year+ Num_colonies+ (1|Apiary_ID), family=binomial, data=bumble_dwv)
 drop1(bumble.thresh.model, test="Chisq")
 # Evaluate residuals for the model
 resids.bumble.thresh <- simulateResiduals(bumble.thresh.model)
@@ -448,7 +448,7 @@ poll_nb %>%
 # wild bee   116            46          0.397
 
 # # Here we use a GLMM to test the effect of pollinator identity and binary apiary-level varroa control (on average, the apiary is above vs below treatment threshold) on DWV presence in wild non-Bombus pollinators
-model_thresh <-  glmmTMB(DWV_presence~ thresh*stat_grouping+ Julian_Day+ (1|Apiary_ID), family=binomial, data=poll_nb)
+model_thresh <-  glmmTMB(DWV_presence~ thresh*stat_grouping+ Day_of_Year+ (1|Apiary_ID), family=binomial, data=poll_nb)
 drop1(model_thresh, test="Chisq")
 # Evaluate residuals for the model
 resids_thresh <- simulateResiduals(model_thresh)
@@ -513,7 +513,7 @@ hf_load <- poll_DWV %>%
   mutate(thresh =ifelse(varroa_avg > 3, "Above","Below")) 
 
 # Here we use a LMM to test the effect of binary apiary-level varroa control (on average, the apiary is above vs below treatment threshold) on DWV loads in hover flies
-load.model.hf <- glmmTMB(logtwoddCT~ Subfamily+thresh + Julian_Day +(1|Apiary_ID), data=hf_load)
+load.model.hf <- glmmTMB(logtwoddCT~ Subfamily+thresh + Day_of_Year +(1|Apiary_ID), data=hf_load)
 drop1(load.model.hf,  test="Chisq")
 # Evaluate residuals for the model
 resids.load.hf <-simulateResiduals(load.model.hf)
@@ -537,7 +537,7 @@ bee_load <- poll_DWV %>%
   mutate(thresh =ifelse(varroa_avg > 3, "Above","Below"))
 
 # Here we use a LMM to test the effect of binary apiary-level varroa control (on average, the apiary is above vs below treatment threshold) on DWV loads in wild non-Bombus bees
-load.model.bee <- lmer(logtwoddCT~ stat_grouping+thresh+Julian_Day +(1|Apiary_ID), data=bee_load)
+load.model.bee <- lmer(logtwoddCT~ stat_grouping+thresh+Day_of_Year +(1|Apiary_ID), data=bee_load)
 drop1(load.model.bee, test="Chisq")
 # Evaluate residuals for the model
 resids.load <-simulateResiduals(load.model.bee)
@@ -589,7 +589,7 @@ Fig.4B
 ### Figure 4 Whole ----
 Figure.4 <-plot_grid(Fig.4A,NULL, Fig.4B, align="h",axis = "b", ncol=3,rel_widths = c(1, 0.01, 0.75))
 
-## Figure S3: Julian Date & Bee DWV loads ----
+## Figure S3:Day of Year & Bee DWV loads ----
 ### Figure S3A ----
 # Construct model-estimated DWV loads in wild non-Bombus bees across bee taxa
 load.model.bee.fam <- as.data.frame(emmip(load.model.bee, ~stat_grouping, type="response", CIs = TRUE, plotit = FALSE)) %>% 
@@ -620,22 +620,22 @@ Fig.S3A<- bee_load %>%
 Fig.S3A
 
 ### Figure S3B -----
-# Construct model-estimated best-fit line for the relationship between DWV loads in wild non-Bombus bees across time (Julian day)
-load.model.bee.julian <- emmip(load.model.bee, ~Julian_Day, at=list(Julian_Day= c(245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,
+# Construct model-estimated best-fit line for the relationship between DWV loads in wild non-Bombus bees across time (day of year)
+load.model.bee.day <- emmip(load.model.bee, ~Day_of_Year, at=list(Day_of_Year= c(245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,
                                                                           262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,278)), type="response", CIs = TRUE, plotit = FALSE)
 Fig.S3B <-  bee_load %>% 
 # For the purpose of data visualization, we treat the reference sample used to calculate load as "0" - otherwise it is a negative value  
   mutate(logtwoddCT=ifelse(logtwoddCT<0,0,logtwoddCT)) %>% 
   ggplot()+
 # Plot raw DWV loads for bees across time, sorted by taxonomic group  
-  geom_point(aes(x=Julian_Day, y=logtwoddCT, col=stat_grouping),alpha=0.85,size=4.5)+
-  geom_line(data=load.model.bee.julian, aes(x=Julian_Day, y=yvar),color="#00496F",lwd=1.75) +
-# Plot the model-estimated best-fit line for the relationship between DWV loads in wild non-Bombus bees across Julian day
-  geom_ribbon(data=load.model.bee.julian, aes(x=Julian_Day, y=yvar,ymin=LCL, ymax=UCL), fill="#00496F", show.legend = FALSE,  alpha=0.35) + 
+  geom_point(aes(x=Day_of_Year, y=logtwoddCT, col=stat_grouping),alpha=0.85,size=4.5)+
+  geom_line(data=load.model.bee.day, aes(x=Day_of_Year, y=yvar),color="#00496F",lwd=1.75) +
+# Plot the model-estimated best-fit line for the relationship between DWV loads in wild non-Bombus bees across time
+  geom_ribbon(data=load.model.bee.day, aes(x=Day_of_Year, y=yvar,ymin=LCL, ymax=UCL), fill="#00496F", show.legend = FALSE,  alpha=0.35) + 
   theme_minimal()+
   xlim(245,280)+
   scale_color_manual(values=bee_fam_col, name="Bee family")+
-  xlab("Julian Day")+
+  xlab("Day of Year")+
   theme(axis.title.y = element_blank())+
 #  ylab(expression(DWV~load~"in"~wild~bees~(log[10]~2^{"-ΔΔCT"})))  +
   theme(text = element_text(size=25), axis.text.x = element_text(hjust=0.5))+
