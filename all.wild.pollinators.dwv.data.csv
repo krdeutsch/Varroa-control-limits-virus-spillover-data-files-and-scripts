@@ -1,4 +1,4 @@
-Sample_ID,DWV_Cq,Reference_Cq,DWV_presence,Taxa,Family,Subfamily,Genus,Species,Sex,Apiary_ID,Julian_Day
+Sample_ID,DWV_Cq,Reference_Cq,DWV_presence,Taxa,Family,Subfamily,Genus,Species,Sex,Apiary_ID,Day_of_Year
 Apiary_13_092320_P6,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,F,Apiary_13,267
 Apiary_6_091020_P6,NA,none,0,bumble,Apidae,NA,Bombus,Bombus impatiens,W,Apiary_6,254
 Apiary_21_092020_P9,NA,22.31666667,0,syrphid,Syrphidae,Eristalinae,Eristalis,Eristalis dimidiata,F,Apiary_21,264
