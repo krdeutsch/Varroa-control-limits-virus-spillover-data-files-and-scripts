@@ -131,7 +131,7 @@ model.emp.site <- emmip(site_model.whole,  ~logv_avg,at=list(logv_avg= c(-0.4,-0
 Fig_1A <- ggplot(data=model.emp.site, aes(x=logv_avg, y=yvar)) +
   xlim(-0.45,1.4)+
   geom_line(color="#00496F",lwd=1.75) +
-  geom_vline(xintercept=log10(3), linetype="dashed", color = "gray",lwd=1.5)+
+  geom_vline(xintercept=log10(3), linetype="dashed", color = "darkgray",lwd=2)+
   ylim(0,8)+
   geom_ribbon(aes(ymin=LCL, ymax=UCL), fill="#00496F", show.legend = FALSE,  alpha=0.35) + 
 # We add in our raw data points of colony-level DWV loads for all 4 colonies from an apiary, plotted against the apiary average varroa load 
@@ -197,7 +197,7 @@ model.emp.indiv <- emmip(individ_load_model.whole,  ~logv,at=list(logv= c(-0.75,
 Fig_S2 <- ggplot(data=model.emp.indiv, aes(x=logv, y=yvar)) +
   geom_line(color="#00496F",lwd=1.75) +
   geom_ribbon(aes(ymin=LCL, ymax=UCL), fill="#00496F", show.legend = FALSE,  alpha=0.35) + 
-  ylim(0,7)+  geom_vline(xintercept=log10(3), linetype="dashed", color = "gray",lwd=1.5)+
+  ylim(0,7)+  geom_vline(xintercept=log10(3), linetype="dashed", color = "darkgray",lwd=2)+
 # We also plot the raw data points of colony-level DWV loads for all colonies across varroa infestation levels
   geom_point(data=HB_loads, aes(x=logv, y=logtwoddCT), size=3.5)+ 
   theme_minimal() +
@@ -261,7 +261,7 @@ model.emp.flower.v <- emmip(flower.model.whole, ~varroa_avg, at=list(varroa_avg=
 Fig.2A <-ggplot(data=model.emp.flower.v, aes(x=varroa_avg, y=yvar)) +
   geom_line(color="#00496F",lwd=1.75) +
 # The 3% infestation threshold at which beekeepers are recommended to treat is plotted as a gray vertical line. 
-  geom_vline(xintercept=3, linetype="dashed", color = "gray",lwd=1.5)+
+  geom_vline(xintercept=3, linetype="dashed", color = "darkgray",lwd=2)+
   ylim(0,1)+
   geom_ribbon(aes(ymin=LCL, ymax=UCL), fill="#00496F", show.legend = FALSE,  alpha=0.35) + 
 # We also plot the raw data points of apiary-level DWV prevalence on flowers against apiary-average varroa load
@@ -381,7 +381,7 @@ Fig.3A <- ggplot(data=model.emp.bumble, aes(x=varroa_avg, y=yvar)) +
   geom_line(color="#00496F",lwd=1.75) +
   geom_ribbon(aes(ymin=LCL, ymax=UCL), fill="#00496F", show.legend = FALSE,  alpha=0.35) +
 # The 3% infestation threshold at which beekeepers are recommended to treat is plotted as a gray vertical line. 
-  geom_vline(xintercept=3, linetype="dashed", color = "gray",lwd=1.5)+
+  geom_vline(xintercept=3, linetype="dashed", color = "darkgray",lwd=2)+
   ylim(0,1)+
 # We also plot the raw data points of bumble bee DWV prevalence against apiary-average varroa loads
   geom_point(data=bumble_prev, aes(x=varroa_avg, y=DWV_prev), size=5)+ 
